@@ -1,5 +1,5 @@
 
-# 🔄 CRM Implementation, Data Migration & Reporting
+# 🔄 CRM Implementation, Data Migration, Pipeline Design & Reporting
 
 ---
 
@@ -57,96 +57,84 @@ Validated record counts and key metrics post-migration
 🔹 ETL Design & Implementation
 
 Designed ETL processes to:
-
-Load cleaned historical data into the new CRM
-
-Perform daily incremental updates
+- Load cleaned historical data into the new CRM
+- Perform daily incremental updates
 
 Implemented transformations including:
-
-Field mapping between systems
-
-Data type conversions
-
-Business logic standardisation
+- Field mapping between systems
+- Data type conversions
+- Business logic standardisation
 
 Built reconciliation checks to ensure data accuracy
+
+---
 
 🔹 Reporting & Dashboards
 
 Developed daily dashboards to track:
-
-Sales pipeline
-
-Revenue performance
-
-Lead conversion rates
-
-Activity metrics
+- Sales pipeline
+- Revenue performance
+- Lead conversion rates
+- Activity metrics
 
 Created management-level reporting:
-
-Performance vs targets
-
-Trend analysis
-
-Exception reporting
+- Performance vs targets
+- Trend analysis
+- Exception reporting
 
 Ensured reports were:
+- Automated
+- Consistent
+- Easy for non-technical users to interpret
 
-Automated
-
-Consistent
-
-Easy for non-technical users to interpret
+---
 
 📈 Business Impact
 
-Successfully migrated CRM data with minimal disruption
+1. Successfully migrated CRM data with minimal disruption
+2. Improved data quality and consistency across the business
+3. Reduced manual reporting through automation
+4. Enabled leadership with real-time visibility into sales performance
+5. Established a scalable data foundation for future analytics
 
-Improved data quality and consistency across the business
-
-Reduced manual reporting through automation
-
-Enabled leadership with real-time visibility into sales performance
-
-Established a scalable data foundation for future analytics
+---
 
 🧠 Skills Demonstrated
 
-CRM system implementation
+- CRM system implementation
+- Data migration and ETL design
+- SQL-based data transformation
+- Data quality assurance & reconciliation
+- Dashboard design and automated reporting
+- Stakeholder collaboration and requirements gathering
 
-Data migration and ETL design
+---
 
-SQL-based data transformation
-
-Data quality assurance & reconciliation
-
-Dashboard design and automated reporting
-
-Stakeholder collaboration and requirements gathering
-
-📷 Architecture & Reporting (Optional)
-
-(Recommended for portfolio)
-You can include:
+📷 Architecture & Reporting
 
 ETL flow diagrams
 
-Dashboard screenshots (anonymised)
+<img width="1872" height="810" alt="image" src="https://github.com/user-attachments/assets/e99dd6b9-bfb7-4ab1-a71d-7d1cef073259" />
 
+
+Dashboard screenshots 
+
+<img width="1887" height="732" alt="image" src="https://github.com/user-attachments/assets/7c2edad4-445a-4b6e-9df1-dbeaedb8d384" />
+
+<img width="1891" height="576" alt="image" src="https://github.com/user-attachments/assets/46b8b037-69aa-4c49-8d47-14200e11a897" />
+
+---
 
 🔒 Data & Confidentiality
 
 All data structures, screenshots, and examples have been anonymised to protect commercial and customer confidentiality.
 This repository focuses on process, architecture, and analytical approach rather than sensitive data.
 
+---
+
 🚀 Future Enhancements
 
-Introduce more advanced data quality monitoring
-
-Add alerting for pipeline or data anomalies
-
-Extend reporting to include forecasting
-
-Integrate additional data sources (e.g. marketing or finance)
+1. Introduce more advanced data quality monitoring
+2. Add alerting for pipeline or data anomalies
+3. Extend reporting to include forecasting
+4. Integrate additional data sources (e.g. marketing or finance)
