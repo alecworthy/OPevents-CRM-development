@@ -3,14 +3,14 @@
 
 ---
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project involved the design, implementation, and rollout of a new CRM system, including full ETL workflows, historical data migration, and the development of daily dashboards and reporting.
 The objective was to replace a legacy CRM with a modern, scalable solution that improved data quality, reporting accuracy, and visibility across sales and operations.
 
 ---
 
-🎯 Objectives
+## 🎯 Objectives
 
 1. Migrate historical data from a legacy CRM into a new system
 2. Design and implement ETL pipelines for ongoing data refreshes
@@ -20,7 +20,7 @@ The objective was to replace a legacy CRM with a modern, scalable solution that 
 
 --- 
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 - Google Sheets
 - CRM Platform	- Moonstride
 - Hubspot
@@ -89,7 +89,7 @@ Ensured reports were:
 
 ---
 
-📈 Business Impact
+## 📈 Business Impact
 
 1. Successfully migrated CRM data with minimal disruption
 2. Improved data quality and consistency across the business
@@ -99,7 +99,7 @@ Ensured reports were:
 
 ---
 
-🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated
 
 - CRM system implementation
 - Data migration and ETL design
@@ -110,7 +110,7 @@ Ensured reports were:
 
 ---
 
-📷 Architecture & Reporting
+## 📷 Architecture & Reporting
 
 ETL flow diagrams
 
@@ -125,14 +125,14 @@ Dashboard screenshots
 
 ---
 
-🔒 Data & Confidentiality
+## 🔒 Data & Confidentiality
 
 All data structures, screenshots, and examples have been anonymised to protect commercial and customer confidentiality.
 This repository focuses on process, architecture, and analytical approach rather than sensitive data.
 
 ---
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 1. Introduce more advanced data quality monitoring
 2. Add alerting for pipeline or data anomalies
