@@ -1,58 +1,58 @@
-# OPevents-CRM-development
 
-🔄 CRM Implementation, Data Migration & Reporting
+# 🔄 CRM Implementation, Data Migration & Reporting
+
+---
+
 📌 Project Overview
 
 This project involved the design, implementation, and rollout of a new CRM system, including full ETL workflows, historical data migration, and the development of daily dashboards and reporting.
-
 The objective was to replace a legacy CRM with a modern, scalable solution that improved data quality, reporting accuracy, and visibility across sales and operations.
+
+---
 
 🎯 Objectives
 
-Migrate historical data from a legacy CRM into a new system
+1. Migrate historical data from a legacy CRM into a new system
+2. Design and implement ETL pipelines for ongoing data refreshes
+3. Clean, validate, and standardise customer and sales data
+4. Build automated daily dashboards and management reporting
+5. Ensure data integrity, reliability, and stakeholder trust
 
-Design and implement ETL pipelines for ongoing data refreshes
-
-Clean, validate, and standardise customer and sales data
-
-Build automated daily dashboards and management reporting
-
-Ensure data integrity, reliability, and stakeholder trust
+--- 
 
 🛠️ Tools & Technologies
-Category	Tools
-CRM Platform	(Anonymised CRM system)
-Data Processing	SQL
-ETL	Scheduled extract, transform, and load workflows
-Reporting	Dashboards & scheduled reports
-Data Validation	QA checks & reconciliation queries
+- Google Sheets
+- CRM Platform	- Moonstride
+- Hubspot
+- Data Processing	SQL
+- ETL	Scheduled extract, transform, and load workflows
+- Reporting	Dashboards & scheduled reports
+- Data Validation	QA checks & reconciliation queries
 
-(Specific tools anonymised due to commercial sensitivity)
+(Specific other tools anonymised due to commercial sensitivity)
 
-🗂️ Key Workstreams
+---
+
+## 🗂️ Key Workstreams
+
 🔹 Data Migration & Cleaning
 
 Extracted historical data from the legacy CRM
 
 Identified and resolved:
-
-Duplicate records
-
-Inconsistent formatting
-
-Missing or invalid values
+- Duplicate records
+- Inconsistent formatting
+- Missing or invalid values
 
 Standardised key entities:
-
-Customers
-
-Leads
-
-Opportunities
-
-Sales activities
+- Customers
+- Leads
+- Opportunities
+- Sales activities
 
 Validated record counts and key metrics post-migration
+
+---
 
 🔹 ETL Design & Implementation
 
